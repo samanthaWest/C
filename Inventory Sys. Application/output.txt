@@ -1,0 +1,34 @@
+Script started on Mon 10 Apr 2017 05:05:03 PM EDT
+swest9@matrix:~/IPC101/FinalProject/FinalSubmission> fp
+---=== Grocery Inventory System ===---
+
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> abc
+Invalid integer, please try again: -1
+Invalid value, 0 < value < 7: 1
+Row |SKU| Name               | Price  |Taxed| Qty | Min |   Total    |Atn
+----+---+--------------------+--------+-----+-----+-----+------------|---
+--------------------------------------------------------+----------------
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- delete item
+7- Search by name
+0- Exit program
+> exit
+Invalid integer, please try again: 0
+Exit the program? (Y)es/(N)o: y
+swest9@matrix:~/IPC101/FinalProject/FinalSubmission> exit
+exit
+
+Script done on Mon 10 Apr 2017 05:05:28 PM EDT

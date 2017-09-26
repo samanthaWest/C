@@ -1,0 +1,10 @@
+
+In line number 15 of your output:
+The output should be:
+Invalid value, 0 < value < 7: 8
+But your output is: 
+Invalid value, 0 < value < 7: 1
+                              ^
+------------------------------|
+Professor's character ASCII code: hex(38), dec(56)
+un-matched character ASCII code: hex(31), dec(49)
